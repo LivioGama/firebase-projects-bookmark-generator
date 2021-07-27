@@ -1,0 +1,15 @@
+{
+  "name": "bookmark-generator",
+  "version": "1.0.0",
+  "description": "A firebase projects bookmark generator in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Livio Gamassia",
+  "license": "ISC",
+  "dependencies": {
+    "netscape-bookmarks": "^0.1.1"
+  }
+}
